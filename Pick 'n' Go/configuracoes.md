@@ -12,8 +12,9 @@
 3.2 [Métodos para obter pedido](#m%C3%A9todos-para-obter-pedido)
 4. [Leitura](#leitura) <br>
 4.1 [Camera de Leitura Continua](#camera-de-leitura-continua) <br>
-4.2 [Leitor de código de barras](#leitor-de-c%C3%B3digo-de-barras)
+4.2 [Leitor de código de barras](#leitor-de-c%C3%B3digo-de-barras) <br>
 4.3 [Leiaute Compacto](#leiaute-compacto)
+5. Notificações
 
 #### O que é
 
@@ -80,3 +81,14 @@ Otimiza o leiaute da tela de separação priorizando a exibição dos produtos n
 ![image](http://hunes.com.br/imagens/mobile/pickngo/012.png)
 
 > Está opção é indicada quando utiliza-se um aparelho com tela pequena
+
+##### Notificações
+
+As opções de notificação vem como padrão ativadas, e indicam se o aplicativo deve emitir sons e/ou vibrar.
+
+![image](http://hunes.com.br/imagens/mobile/pickngo/014.png)
+
+##### Id do Dispositivo
+
+O id do dispositivo é a identifação do aplicativo no dispositivo, dentre os aplicativos, este id é único. A forma como ele é gerado pode ser vista na pagina oficial [Developers](https://developer.android.com/reference/android/provider/Settings.Secure.html#ANDROID_ID).
+Utilizamos está identificação para visualizarmos, caso necessário, quem fez a separação de determinado pedido.
