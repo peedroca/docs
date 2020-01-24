@@ -1,6 +1,6 @@
 # Requisitos de Sistema
 
-- [Voltar](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/home.md#pick-n-go)
+[Voltar](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/home.md#pick-n-go)
 
 Requisito | Recomendação | Mínimo
 --- | --- | ---
