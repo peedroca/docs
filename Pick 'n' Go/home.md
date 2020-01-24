@@ -12,3 +12,4 @@
 ---
 
 - [Requisitos de Sistema](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/requisitos.md#requisitos-de-sistema)
+- [Changelog](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/changelog.md#changelog)
