@@ -1,5 +1,7 @@
 # Changelog
 
+[Inicio](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/home.md#pick-n-go)
+
 #### O que é
 
 Ela é uma aba do aplicativo, destinada a armazenar as informações referentes as atualizações do aplicativo. Nela é possível encontrar adições, modificações, remoções, entre outras coisas.
