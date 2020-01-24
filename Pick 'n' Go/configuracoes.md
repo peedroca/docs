@@ -10,6 +10,7 @@
 3. [Web API](#web-api) <br>
 3.1 [Endereço](#endere%C3%A7o) <br>
 3.2 [Métodos para obter pedido](#m%C3%A9todos-para-obter-pedido)
+4. [Leitura](#leitura)
 
 #### O que é
 
