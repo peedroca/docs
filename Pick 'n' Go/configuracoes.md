@@ -17,4 +17,4 @@ A tela de configuração reúne as personalizações que podem ser feitas no apl
 Para acessar você não precisará estar logado. Clique na engrenagem no canto inferior esquerdo na tela de login, Ou vá ao menu e clique sob Configurações.
 
 ![image](http://hunes.com.br/imagens/mobile/pickngo/005.png)
-![image](http://hunes.com.br/imagens/mobile/pickngo/004.png)
+![image](http://hunes.com.br/imagens/mobile/pickngo/003.png)
