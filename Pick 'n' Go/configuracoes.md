@@ -6,6 +6,7 @@
 ## Sumário
 
 1. [O que é](#o-que-%C3%A9)
+2. [Acessando](#acessando)
 
 #### O que é
 
@@ -13,4 +14,4 @@ A tela de configuração reúne as personalizações que podem ser feitas no apl
 
 #### Acessando
 
-
+Para acessar você não precisará estar logado. Vá então ao menu principal onde encontrará na lista de opções `Changelog` clique sobre isto, para visualiza-lá.
