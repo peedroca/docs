@@ -4,6 +4,8 @@
 
 ![image](https://img.shields.io/badge/Pick'n'Go-v1.3.0-success)
 [![image](https://img.shields.io/badge/android->=5.0%20(Lollipop)-blue)](http://hunes.com.br/)
+![image](https://img.shields.io/badge/.Net_Standart-v2.0-blue)
+![image](https://img.shields.io/badge/Pacote-br.com.Hunes.PickNGo-blueviolet)
 
 [Inicio](https://github.com/peedroca/documentations/blob/master/README.md#documentations)
 
