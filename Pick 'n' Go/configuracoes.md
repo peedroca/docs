@@ -5,7 +5,7 @@
 
 ## Sumário
 
-1. [O que é](#o-que-%C3%A9)
+1. [Definição](#o-que-%C3%A9)
 2. [Acessando](#acessando)
 3. [Web API](#web-api) <br>
 3.1 [Endereço](#endere%C3%A7o) <br>
@@ -17,7 +17,7 @@
 5. [Notificações](#notifica%C3%A7%C3%B5es)
 6. [Id do Dispositivo](#id-do-dispositivo)
 
-#### O que é
+#### Definição
 
 A tela de configuração reúne as personalizações que podem ser feitas no aplicativo. Desde à API que deve ser acessada até se a aplicação deve emitir sons.
 
