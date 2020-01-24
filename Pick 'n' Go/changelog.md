@@ -12,7 +12,7 @@ Ela é uma aba do aplicativo, destinada a armazenar as informações referentes 
 
 Para acessar você precisará estar logado. Vá então ao menu principal onde encontrará na lista de opções `Changelog` clique sobre isto, para visualiza-lá.
 
-![image](http://hunes.com.br/imagens/mobile/pickngo/001.png)
+![image](http://hunes.com.br/imagens/mobile/pickngo/001(2).png)
 ![image](http://hunes.com.br/imagens/mobile/pickngo/002.png)
 
 #### Padronização
