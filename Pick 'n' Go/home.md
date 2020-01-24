@@ -2,7 +2,7 @@
 
 ***A aplicação mobile de separação da Hunes.***
 
-![image](https://img.shields.io/badge/android->=5.0%20(Lollipop)-blue)
+[![image](https://img.shields.io/badge/android->=5.0%20(Lollipop)-blue)](http://hunes.com.br/)
 
 [Voltar](https://github.com/peedroca/documentations/blob/master/README.md#documentations)
 
