@@ -7,8 +7,8 @@
 
 1. [O que é](#o-que-%C3%A9)
 2. [Acessando](#acessando)
-3. [Web API](#web-api)
-3.1 [Endereço](#endere%c3o)
+3. [Web API](#web-api) <br>
+3.1 [Endereço](#endere%C3%A7o)
 
 #### O que é
 
