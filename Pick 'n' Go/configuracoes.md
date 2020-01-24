@@ -11,7 +11,8 @@
 3.1 [Endereço](#endere%C3%A7o) <br>
 3.2 [Métodos para obter pedido](#m%C3%A9todos-para-obter-pedido)
 4. [Leitura](#leitura) <br>
-4.1 [Camera de Leitura Continua](#camera-de-leitura-continua)
+4.1 [Camera de Leitura Continua](#camera-de-leitura-continua) <br>
+4.2 [Leitor de código de barras](#leitor-de-c%C3%B3digo-de-barras)
 
 #### O que é
 
@@ -69,3 +70,7 @@ Está função possibilita remover todos os botões que abrem o leitor de códig
 
 ![image](http://hunes.com.br/imagens/mobile/pickngo/011.png)
 > Ícone do leitor de código de barras.
+
+##### Leiaute Compacto
+
+Muda o leiaute das telas de Separação do aplicativo realocando os detalhes para uma aba `RESUMO`. Assim deixando mais espaço na aba `CONSULTA` permitindo serem exibidos mais produtos ao mesmo tempo em aparelhos com o visor menor.
