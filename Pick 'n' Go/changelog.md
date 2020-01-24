@@ -1,6 +1,8 @@
 # Changelog
 
 [Inicio](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/home.md#pick-n-go)
+[Voltar](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/requisitos.md#requisitos-de-sistema)
+
 
 #### O que é
 
@@ -16,3 +18,6 @@ Para acessar você precisará estar logado. Vá então ao menu principal onde en
 #### Padronização
 
 A criação da changelog é feita com base no projeto OpenSource de [Olivier Lacan](https://keepachangelog.com/pt-BR/0.3.0/).
+
+[Voltar](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/requisitos.md#requisitos-de-sistema)
+[Inicio](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/home.md#pick-n-go)
