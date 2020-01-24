@@ -37,4 +37,9 @@ No campo seguinte é possível informar:
 - Nota 
 - Pedido
 
-Estes métodos indicam o valor que deverá ser informado na tela inicial do aplicativo.
+Estes métodos indicam o valor que deverá ser informado na tela inicial do aplicativo. Como nas imagens abaixo.
+
+![image](http://hunes.com.br/imagens/mobile/pickngo/006.png)
+![image](http://hunes.com.br/imagens/mobile/pickngo/007.png)
+![image](http://hunes.com.br/imagens/mobile/pickngo/008.png)
+
