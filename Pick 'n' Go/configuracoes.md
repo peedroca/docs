@@ -93,3 +93,5 @@ As opções de notificação vem como padrão ativadas, e indicam se o aplicativ
 
 O id do dispositivo é a identifação do aplicativo no dispositivo, dentre os aplicativos, este id é único. A forma como ele é gerado pode ser vista na pagina oficial [Developers](https://developer.android.com/reference/android/provider/Settings.Secure.html#ANDROID_ID).
 Utilizamos está identificação para visualizarmos, caso necessário, quem fez a separação de determinado pedido.
+
+[Topo](#configura%C3%A7%C3%B5es)
