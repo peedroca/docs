@@ -14,7 +14,8 @@
 4.1 [Camera de Leitura Continua](#camera-de-leitura-continua) <br>
 4.2 [Leitor de código de barras](#leitor-de-c%C3%B3digo-de-barras) <br>
 4.3 [Leiaute Compacto](#leiaute-compacto)
-5. Notificações
+5. [Notificações](#notifica%C3%A7%C3%B5es)
+6. [Id do Dispositivo](#id-do-dispositivo)
 
 #### O que é
 
