@@ -73,4 +73,9 @@ Está função possibilita remover todos os botões que abrem o leitor de códig
 
 ##### Leiaute Compacto
 
-Muda o leiaute das telas de Separação do aplicativo realocando os detalhes para uma aba `RESUMO`. Assim deixando mais espaço na aba `CONSULTA` permitindo serem exibidos mais produtos ao mesmo tempo em aparelhos com o visor menor.
+Otimiza o leiaute da tela de separação priorizando a exibição dos produtos na aba `CONSULTA`. Com isso é criado uma nova aba `RESUMO` para apresentar as informações da nota fiscal e finalizar a separação.
+
+![image](http://hunes.com.br/imagens/mobile/pickngo/013.png)
+![image](http://hunes.com.br/imagens/mobile/pickngo/012.png)
+
+> Está opção é indicada quando utiliza-se um aparelho com tela 
