@@ -3,6 +3,10 @@
 [Voltar](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/home.md#pick-n-go)
 
 ![image](https://img.shields.io/badge/version@date-v1.3.0%20(21/01/2020)-success)
+![image](https://img.shields.io/badge/version@date-v1.2.1%20(27/12/2019)-important)
+![image](https://img.shields.io/badge/version@date-v1.2.0%20(17/12/2019)-important)
+
+### Últimas Modificações
 
 Descrição | Tipo
 :--- | ---:
