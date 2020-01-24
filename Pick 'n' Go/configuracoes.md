@@ -8,11 +8,15 @@
 1. [O que é](#o-que-%C3%A9)
 2. [Acessando](#acessando)
 3. [Web API](#web-api) <br>
-3.1 [Endereço](#endere%C3%A7o)
+3.1 [Endereço](#endere%C3%A7o) <br>
+3.2 [Métodos para obter pedido](#m%C3%A9todos-para-obter-pedido)
 
 #### O que é
 
 A tela de configuração reúne as personalizações que podem ser feitas no aplicativo. Desde à API que deve ser acessada até se a aplicação deve emitir sons.
+
+![image](http://hunes.com.br/imagens/mobile/pickngo/004.png)
+> Tela de Configuração.
 
 #### Acessando
 
@@ -43,3 +47,23 @@ Estes métodos indicam o valor que deverá ser informado na tela inicial do apli
 ![image](http://hunes.com.br/imagens/mobile/pickngo/007.png)
 ![image](http://hunes.com.br/imagens/mobile/pickngo/008.png)
 
+> A Chave da NF-e é composta por 44 dígitos. Exemplo:
+> 51080701212344000127550010000000981364117781
+
+#### Leitura
+
+![image](http://hunes.com.br/imagens/mobile/pickngo/009.png)
+> Grupo de opções referênte a leitura e utilização das funções de separação.
+
+##### Camera de Leitura Continua
+
+Ao habilitar está função, no momento da leitura dos códigos de barra na tela de separação dos produtos, a camera não será fechada até que seja clicado no botão voltar.
+
+![image](http://hunes.com.br/imagens/mobile/pickngo/010.png)
+
+##### Leitor de código de barras
+
+Está função possibilita remover todos os botões que abrem o leitor de código de barras do aparelho. Deve ser utilizada quando usado um leitor físico.
+
+![image](http://hunes.com.br/imagens/mobile/pickngo/011.png)
+> Ícone do leitor de código de barras.
