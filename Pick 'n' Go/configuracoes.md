@@ -95,3 +95,4 @@ O id do dispositivo é a identifação do aplicativo no dispositivo, dentre os a
 Utilizamos está identificação para visualizarmos, caso necessário, quem fez a separação de determinado pedido.
 
 [Topo](#configura%C3%A7%C3%B5es)
+[Próximo](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/login.md#login)
