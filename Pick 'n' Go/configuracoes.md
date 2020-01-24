@@ -18,3 +18,21 @@ Para acessar você não precisará estar logado. Clique na engrenagem no canto i
 
 ![image](http://hunes.com.br/imagens/mobile/pickngo/005.png)
 ![image](http://hunes.com.br/imagens/mobile/pickngo/003.png)
+
+> É necessário estar logado para acessar o menu de opções. (Imagem 2)
+
+#### Web API
+
+##### Endereço
+
+O primeiro campo da seção `Web API` é o local para inserir o end point da API. Tal como `http://127.0.0.1`. É indispensável a utilização de `http://` antes de informar o endereço.
+
+##### Métodos para obter pedido
+
+No campo seguinte é possível informar:
+
+-Chave NF-e 
+-Nota 
+-Pedido
+
+Estes métodos tratam do valor que deverá ser informado na tela inicial do aplicativo.
