@@ -33,8 +33,8 @@ O primeiro campo da seção `Web API` é o local para inserir o end point da API
 
 No campo seguinte é possível informar:
 
--Chave NF-e 
--Nota 
--Pedido
+- Chave NF-e 
+- Nota 
+- Pedido
 
-Estes métodos tratam do valor que deverá ser informado na tela inicial do aplicativo.
+Estes métodos indicam o valor que deverá ser informado na tela inicial do aplicativo.
