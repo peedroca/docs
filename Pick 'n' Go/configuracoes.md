@@ -13,6 +13,7 @@
 4. [Leitura](#leitura) <br>
 4.1 [Camera de Leitura Continua](#camera-de-leitura-continua) <br>
 4.2 [Leitor de código de barras](#leitor-de-c%C3%B3digo-de-barras)
+4.3 [Leiaute Compacto](#leiaute-compacto)
 
 #### O que é
 
