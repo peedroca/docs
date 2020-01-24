@@ -38,7 +38,7 @@ O primeiro campo da seção `Web API` é o local para inserir o end point da API
 
 ##### Métodos para obter pedido
 
-No campo seguinte é possível informar:
+É possível informar:
 
 - Chave NF-e 
 - Nota 
@@ -78,4 +78,4 @@ Otimiza o leiaute da tela de separação priorizando a exibição dos produtos n
 ![image](http://hunes.com.br/imagens/mobile/pickngo/013.png)
 ![image](http://hunes.com.br/imagens/mobile/pickngo/012.png)
 
-> Está opção é indicada quando utiliza-se um aparelho com tela 
+> Está opção é indicada quando utiliza-se um aparelho com tela pequena
