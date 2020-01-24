@@ -2,9 +2,9 @@
 
 [Voltar](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/home.md#pick-n-go)
 
+![image](https://img.shields.io/badge/version@date-v1.2%20(23/08/2019)-success)
 ![image](https://img.shields.io/badge/version@date-v1.1%20(23/08/2019)-important)
 ![image](https://img.shields.io/badge/version@date-v1.0%20(23/08/2019)-important)
-![image](https://img.shields.io/badge/version@date-v1.2%20(23/08/2019)-success)
 
 Versão | Notas | Autor
 :---: | :--- | :---
