@@ -5,7 +5,7 @@
 ![image](https://img.shields.io/badge/version@date-v1.3.0%20(21/01/2020)-success)
 
 Descrição | Tipo
---- | ---:
+:--- | ---:
 Tratamento de erros | Changed
 Marcar produtos da lista de consulta | Added
 Layout Compacto | Added
