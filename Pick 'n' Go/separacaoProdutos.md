@@ -3,6 +3,14 @@
 [Inicio](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/home.md#pick-n-go) </br>
 [Voltar](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/login.md#login)
 
+## Sumário
+
+1. [Definição](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/separacaoProdutos.md#defini%C3%A7%C3%A3o)
+2. [Separando um produto](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/separacaoProdutos.md#separando-um-produto) <br>
+2.1 [Código de Barras Regular](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/separacaoProdutos.md#c%C3%B3digo-de-barras-regular) <br>
+2.2 [Código de Barras Único](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/separacaoProdutos.md#c%C3%B3digo-de-barras-%C3%BAnico)
+3. [Sinalizando um produto](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/separacaoProdutos.md#sinalizando-um-produto) 
+
 #### Definição
 
 A separação de um produto é o ato de ler seu código de barra, seja utilizando um scanner, a camera do dispositivo ou digitando seu código.
