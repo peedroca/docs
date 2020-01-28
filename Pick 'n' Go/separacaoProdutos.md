@@ -21,9 +21,11 @@ Isto é feito através das abas abaixo:
 ![image](http://hunes.com.br/imagens/mobile/pickngo/017.png)
 > Na aba `CONSULTA` é possível ver todos os produtos que devem ser separados.
 
-#### Acessando
+#### Acessando - Tela Inicial
 
-As abas de separação
+As abas de separação são acessadas através da tela inicial do aplicativo. Onde deverá ser informado a empresa em que será feita a separação. O campo terá como padrão a última empresa que foi utilizada, caso não tenha sido utilizada nenhuma empresa o campo virá com a primeira empresa como padrão.
+
+No campo `Separação de Pedidos` poderá ser lido um código de barras com a camera do disposito ou digitado a Chave NF-e, Número da Nota/Pedido, de acordo com o definido nas configurações.
 
 ![image](http://hunes.com.br/imagens/mobile/pickngo/026.png)
 
