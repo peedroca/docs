@@ -27,4 +27,18 @@ Ocorre ao digitar/ler o código de barras de um produto na aba `LEITURA` da sepa
 ![image](http://hunes.com.br/imagens/mobile/pickngo/029.png)
 > Talvez o código tenha sido lido de forma incorreta, tente repetir a leitura.
 
+#### Erros na leitura de Código Único
+
+##### Identificador da identificação única não encontrado.
+
+Exemplo: 00000000000000l
+
+##### Identificador da identificação única está ausente ou inválido.
+
+##### Numeração da identificação única com tamanho inválido.
+
+##### Produto da identificação única com tamanho inválido.
+
+##### A identificação única já está sendo utilizada.
+
 [Topo](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/errosMapeados.md#erros-mapeados)
