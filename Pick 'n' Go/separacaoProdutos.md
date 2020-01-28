@@ -55,3 +55,4 @@ Na versão `1.3.0` do aplicativo foi adicionado a função de sinalizar um produ
 > Após um produto sinalizado atingir a quantidade necessária de separação, seu sinalizador será alterado para verde.
 
 [Topo](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/separacaoProdutos.md#separa%C3%A7%C3%A3o-de-produtos)
+[Próximo](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/sobre.md#sobre)
