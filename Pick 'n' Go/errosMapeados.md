@@ -7,6 +7,12 @@
 1. [Definição](https://github.com/peedroca/documentations/new/master/Pick%20'n'%20Go#defini%C3%A7%C3%A3o)
 2. [Necessário estar logado para separar pedidos!](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/errosMapeados.md#necess%C3%A1rio-estar-logado-para-separar-pedidos)
 3. [O código XXXXXXXX não consta para separação!!](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/errosMapeados.md#o-c%C3%B3digo-xxxxxxxx-n%C3%A3o-consta-para-separa%C3%A7%C3%A3o)
+4. [Erros na leitura de Código Único](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/errosMapeados.md#erros-na-leitura-de-c%C3%B3digo-%C3%BAnico) <br>
+4.1 [Formato de Código único correto.](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/errosMapeados.md#formato-de-c%C3%B3digo-%C3%BAnico-correto) <br>
+4.2 [Identificador da identificação única não encontrado.](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/errosMapeados.md#identificador-da-identifica%C3%A7%C3%A3o-%C3%BAnica-n%C3%A3o-encontrado) <br>
+4.3 [Identificador da identificação única está ausente ou inválido.](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/errosMapeados.md#identificador-da-identifica%C3%A7%C3%A3o-%C3%BAnica-est%C3%A1-ausente-ou-inv%C3%A1lido) <br>
+4.4 [Numeração da identificação única com tamanho inválido.](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/errosMapeados.md#numera%C3%A7%C3%A3o-da-identifica%C3%A7%C3%A3o-%C3%BAnica-com-tamanho-inv%C3%A1lido) <br>
+4.5 [A identificação única já está sendo utilizada.](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/errosMapeados.md#a-identifica%C3%A7%C3%A3o-%C3%BAnica-j%C3%A1-est%C3%A1-sendo-utilizada)
 
 #### Definição
 
