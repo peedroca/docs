@@ -5,7 +5,7 @@
 ## Sumário
 
 1. [Definição](https://github.com/peedroca/documentations/new/master/Pick%20'n'%20Go#defini%C3%A7%C3%A3o)
-2. [Necessário estar logado para separar pedidos!](https://github.com/peedroca/documentations/new/master/Pick%20'n'%20Go#necess%C3%A1rio-estar-logado-para-separar-pedidos)
+2. [Necessário estar logado para separar pedidos!](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/errosMapeados.md#necess%C3%A1rio-estar-logado-para-separar-pedidos)
 
 #### Definição
 
