@@ -29,9 +29,42 @@ Ocorre ao digitar/ler o código de barras de um produto na aba `LEITURA` da sepa
 
 #### Erros na leitura de Código Único
 
+![image](http://hunes.com.br/imagens/mobile/pickngo/030.png)
+![image](http://hunes.com.br/imagens/mobile/pickngo/031.png)
+![image](http://hunes.com.br/imagens/mobile/pickngo/032.png)
+![image](http://hunes.com.br/imagens/mobile/pickngo/033.png)
+
+```C#
+/// <summary>
+/// Validate if fullBarcode is correct form.
+/// </summary>
+/// <param name="fullBarcode">Combination of barcode with packing.</param>
+/// <param name="barcode">Barcode of item.</param>
+/// <param name="packing">Packing of item.</param>
+private void ToValidateBarcode(string fullBarcode, out string barcode, out string packing)
+{
+    var matriz = fullBarcode.Split('l');
+
+    if (matriz.Count() != 2)
+        throw new Exception("Identificador da identificação única não encontrado.");
+    else if (string.IsNullOrWhiteSpace(matriz[0]) || string.IsNullOrWhiteSpace(matriz[1]))
+        throw new Exception("Identificador da identificação única está ausente ou inválido.");
+    else if (matriz[0].Length != 14)
+        throw new Exception("Numeração da identificação única com tamanho inválido.");
+    else if (matriz[1].Length == 0 || matriz[1].Length > 16)
+        throw new Exception("Produto da identificação única com tamanho inválido.");
+    else if (itemPicked.Any(a => a.Emabalagem == fullBarcode))
+        throw new Exception("A identificação única já está sendo utilizada.");
+
+    barcode = matriz[1];
+    packing = fullBarcode;
+}
+```
+
 ##### Identificador da identificação única não encontrado.
 
-Exemplo: 00000000000000l
+Erro ocorrido quando o código único possuí mais ou menos de duas partes.
+`Exemplo 1: 00000000000000l000000l000000` `Exemplo 2: 00000000000000000l`
 
 ##### Identificador da identificação única está ausente ou inválido.
 
@@ -40,5 +73,10 @@ Exemplo: 00000000000000l
 ##### Produto da identificação única com tamanho inválido.
 
 ##### A identificação única já está sendo utilizada.
+
+##### Formato de Código único correto.
+
+A primeira parte com 14 caracteres, separado com um 'l' e em seguida de 1 a 16 caractes.
+`Exemplo: 00000000000000l0000000000000000`
 
 [Topo](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/errosMapeados.md#erros-mapeados)
