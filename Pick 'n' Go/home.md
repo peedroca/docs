@@ -19,3 +19,4 @@
 - [Configurações](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/configuracoes.md#configura%C3%A7%C3%B5es)
 - [Login](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/login.md#login)
 - [Separação de Produtos](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/separacaoProdutos.md#separa%C3%A7%C3%A3o-de-produtos)
+- [Sobre]
