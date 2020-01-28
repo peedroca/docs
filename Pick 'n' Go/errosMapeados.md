@@ -51,8 +51,6 @@ private void ToValidateBarcode(string fullBarcode, out string barcode, out strin
         throw new Exception("Identificador da identificação única está ausente ou inválido.");
     else if (matriz[0].Length != 14)
         throw new Exception("Numeração da identificação única com tamanho inválido.");
-    else if (matriz[1].Length == 0 || matriz[1].Length > 16)
-        throw new Exception("Produto da identificação única com tamanho inválido.");
     else if (itemPicked.Any(a => a.Emabalagem == fullBarcode))
         throw new Exception("A identificação única já está sendo utilizada.");
 
@@ -61,24 +59,28 @@ private void ToValidateBarcode(string fullBarcode, out string barcode, out strin
 }
 ```
 
-##### Identificador da identificação única não encontrado.
-
-Erro ocorrido quando o código único possuí mais ou menos de duas partes.
-`Exemplo 1: 00000000000000l000000l000000` `Exemplo 2: 00000000000000000l` [código único correto](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/errosMapeados.md#formato-de-c%C3%B3digo-%C3%BAnico-correto).
-
-##### Identificador da identificação única está ausente ou inválido.
-
-
-
-##### Numeração da identificação única com tamanho inválido.
-
-##### Produto da identificação única com tamanho inválido.
-
-##### A identificação única já está sendo utilizada.
-
 ##### Formato de Código único correto.
 
 A primeira parte com 14 caracteres, separado com um 'l' e em seguida de 1 a 16 caractes.
 `Exemplo: 00000000000000l0000000000000000`
+
+##### Identificador da identificação única não encontrado.
+
+Erro ocorrido quando o código único possuí mais ou menos de duas partes.
+`Exemplo 1: 00000000000000l000000l000000` `Exemplo 2: 00000000000000000l`
+
+##### Identificador da identificação única está ausente ou inválido.
+
+Ocorre quando uma das duas partes está em branco.
+`Exemplo 1: 00000000000000000l` `Exemplo 2: l00000000000000000`
+
+##### Numeração da identificação única com tamanho inválido.
+
+Ocorre quando a primeira parte do código tem a quantidade de caracteres diferente de 14
+`Exemplo : 0000l00000000000000000`
+
+##### A identificação única já está sendo utilizada.
+
+Ocorre quando é lido o código de um produto que já está separado.
 
 [Topo](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/errosMapeados.md#erros-mapeados)
