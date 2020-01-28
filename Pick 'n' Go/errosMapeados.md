@@ -6,7 +6,7 @@
 
 1. [Definição](https://github.com/peedroca/documentations/new/master/Pick%20'n'%20Go#defini%C3%A7%C3%A3o)
 2. [Necessário estar logado para separar pedidos!](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/errosMapeados.md#necess%C3%A1rio-estar-logado-para-separar-pedidos)
-3. O código XXXXXXXX não consta para separação!!
+3. [O código XXXXXXXX não consta para separação!!](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/errosMapeados.md#o-c%C3%B3digo-xxxxxxxx-n%C3%A3o-consta-para-separa%C3%A7%C3%A3o)
 
 #### Definição
 
