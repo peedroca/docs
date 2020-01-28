@@ -20,4 +20,4 @@ Ocorre ao clicar em `SEPARAR` na tela inicial do aplicativo. Há uma validação
 
 Caso o aplicativo tente deslogar o usuário e não obtenha êxito, ele deverá ser deslogado manualmente acessando o menu e clicando em `Logout`
 
-[Topo](#)
+[Topo](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/errosMapeados.md#erros-mapeados)
