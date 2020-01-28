@@ -6,6 +6,7 @@
 ## Sumário
 
 1. [Definição](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/separacaoProdutos.md#defini%C3%A7%C3%A3o)
+2. [Acessando](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/separacaoProdutos.md#acessando)
 2. [Separando um produto](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/separacaoProdutos.md#separando-um-produto) <br>
 2.1 [Código de Barras Regular](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/separacaoProdutos.md#c%C3%B3digo-de-barras-regular) <br>
 2.2 [Código de Barras Único](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/separacaoProdutos.md#c%C3%B3digo-de-barras-%C3%BAnico)
@@ -19,6 +20,12 @@ Isto é feito através das abas abaixo:
 ![image](http://hunes.com.br/imagens/mobile/pickngo/018.png)
 ![image](http://hunes.com.br/imagens/mobile/pickngo/017.png)
 > Na aba `CONSULTA` é possível ver todos os produtos que devem ser separados.
+
+#### Acessando
+
+As abas de separação
+
+![image](http://hunes.com.br/imagens/mobile/pickngo/026.png)
 
 #### Separando um produto
 
