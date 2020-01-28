@@ -64,9 +64,11 @@ private void ToValidateBarcode(string fullBarcode, out string barcode, out strin
 ##### Identificador da identificação única não encontrado.
 
 Erro ocorrido quando o código único possuí mais ou menos de duas partes.
-`Exemplo 1: 00000000000000l000000l000000` `Exemplo 2: 00000000000000000l`
+`Exemplo 1: 00000000000000l000000l000000` `Exemplo 2: 00000000000000000l` [código único correto](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/errosMapeados.md#formato-de-c%C3%B3digo-%C3%BAnico-correto).
 
 ##### Identificador da identificação única está ausente ou inválido.
+
+
 
 ##### Numeração da identificação única com tamanho inválido.
 
