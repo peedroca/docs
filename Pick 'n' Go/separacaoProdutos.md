@@ -6,11 +6,11 @@
 ## Sumário
 
 1. [Definição](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/separacaoProdutos.md#defini%C3%A7%C3%A3o)
-2. [Acessando](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/separacaoProdutos.md#acessando)
-2. [Separando um produto](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/separacaoProdutos.md#separando-um-produto) <br>
-2.1 [Código de Barras Regular](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/separacaoProdutos.md#c%C3%B3digo-de-barras-regular) <br>
-2.2 [Código de Barras Único](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/separacaoProdutos.md#c%C3%B3digo-de-barras-%C3%BAnico)
-3. [Sinalizando um produto](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/separacaoProdutos.md#sinalizando-um-produto) 
+2. [Acessando - Tela Inicial](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/separacaoProdutos.md#acessando---tela-inicial)
+3. [Separando um produto](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/separacaoProdutos.md#separando-um-produto) <br>
+3.1 [Código de Barras Regular](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/separacaoProdutos.md#c%C3%B3digo-de-barras-regular) <br>
+3.2 [Código de Barras Único](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/separacaoProdutos.md#c%C3%B3digo-de-barras-%C3%BAnico)
+4. [Sinalizando um produto](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/separacaoProdutos.md#sinalizando-um-produto) 
 
 #### Definição
 
