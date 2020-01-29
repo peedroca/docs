@@ -2,7 +2,7 @@
 
 ***A aplicação mobile de separação da Hunes.***
 
-![image](https://img.shields.io/badge/Pick'n'Go-v1.3.0-success)
+![image](https://img.shields.io/badge/Pick'n'Go-v1.3.1-success)
 ![image](https://img.shields.io/badge/android->=5.0%20(Lollipop)-blue)
 ![image](https://img.shields.io/badge/.Net_Standart-v2.0-blue)
 ![image](https://img.shields.io/badge/Pacote-br.com.Hunes.PickNGo-blueviolet)
