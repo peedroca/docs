@@ -1,6 +1,6 @@
 # Documentações
 
-![image](https://img.shields.io/badge/Pick'n'Go-v1.3.0-success)
+![image](https://img.shields.io/badge/Pick'n'Go-v1.3.1-success)
 
 ---
 
