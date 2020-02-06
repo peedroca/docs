@@ -1,4 +1,4 @@
-# Pick 'n' Go
+# Vendeu!
 
 ***A aplicação mobile de separação da Hunes.***
 
