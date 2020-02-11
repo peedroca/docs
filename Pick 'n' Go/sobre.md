@@ -1,7 +1,7 @@
 # Sobre
 
-[Inicio](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/home.md#pick-n-go) </br>
-[Voltar](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/separacaoProdutos.md#separa%C3%A7%C3%A3o-de-produtos)
+[Inicio](https://github.com/devhunes/pickngo/blob/master/docs/home.md#pick-n-go) </br>
+[Voltar](https://github.com/devhunes/pickngo/blob/master/docs/separacaoProdutos.md#separa%C3%A7%C3%A3o-de-produtos)
 
 #### Definição
 
