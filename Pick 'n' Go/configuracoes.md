@@ -1,7 +1,7 @@
 # Configurações
 
-[Inicio](https://github.com/devhunes/pickngo/blob/master/docs/home.md#pick-n-go) </br>
-[Voltar](https://github.com/devhunes/pickngo/blob/master/docs/changelog.md#changelog)
+[Inicio](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/home.md#pick-n-go) </br>
+[Voltar](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/changelog.md#changelog)
 
 ## Sumário
 
@@ -95,4 +95,4 @@ O id do dispositivo é a identifação do aplicativo no dispositivo, dentre os a
 Utilizamos está identificação para visualizarmos, caso necessário, quem fez a separação de determinado pedido.
 
 [Topo](#configura%C3%A7%C3%B5es) </br>
-[Próximo](https://github.com/devhunes/pickngo/blob/master/docs/login.md#login)
+[Próximo](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/login.md#login)

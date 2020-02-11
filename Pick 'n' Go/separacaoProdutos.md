@@ -1,16 +1,16 @@
 # Separação de Produtos
 
-[Inicio](https://github.com/devhunes/pickngo/blob/master/docs/home.md#pick-n-go) </br>
-[Voltar](https://github.com/devhunes/pickngo/blob/master/docs/login.md#login)
+[Inicio](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/home.md#pick-n-go) </br>
+[Voltar](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/login.md#login)
 
 ## Sumário
 
-1. [Definição](https://github.com/devhunes/pickngo/blob/master/docs/separacaoProdutos.md#defini%C3%A7%C3%A3o)
-2. [Acessando - Tela Inicial](https://github.com/devhunes/pickngo/blob/master/docs/separacaoProdutos.md#acessando---tela-inicial)
-3. [Separando um produto](https://github.com/devhunes/pickngo/blob/master/docs/separacaoProdutos.md#separando-um-produto) <br>
-3.1 [Código de Barras Regular](https://github.com/devhunes/pickngo/blob/master/docs/separacaoProdutos.md#c%C3%B3digo-de-barras-regular) <br>
-3.2 [Código de Barras Único](https://github.com/devhunes/pickngo/blob/master/docs/separacaoProdutos.md#c%C3%B3digo-de-barras-%C3%BAnico)
-4. [Sinalizando um produto](https://github.com/devhunes/pickngo/blob/master/docs/separacaoProdutos.md#sinalizando-um-produto) 
+1. [Definição](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/separacaoProdutos.md#defini%C3%A7%C3%A3o)
+2. [Acessando - Tela Inicial](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/separacaoProdutos.md#acessando---tela-inicial)
+3. [Separando um produto](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/separacaoProdutos.md#separando-um-produto) <br>
+3.1 [Código de Barras Regular](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/separacaoProdutos.md#c%C3%B3digo-de-barras-regular) <br>
+3.2 [Código de Barras Único](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/separacaoProdutos.md#c%C3%B3digo-de-barras-%C3%BAnico)
+4. [Sinalizando um produto](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/separacaoProdutos.md#sinalizando-um-produto) 
 
 #### Definição
 
@@ -54,5 +54,5 @@ Na versão `1.3.0` do aplicativo foi adicionado a função de sinalizar um produ
 ![image](http://hunes.com.br/imagens/mobile/pickngo/020.png)
 > Após um produto sinalizado atingir a quantidade necessária de separação, seu sinalizador será alterado para verde.
 
-[Topo](https://github.com/devhunes/pickngo/blob/master/docs/separacaoProdutos.md#separa%C3%A7%C3%A3o-de-produtos) <br>
-[Próximo](https://github.com/devhunes/pickngo/blob/master/docs/sobre.md#sobre)
+[Topo](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/separacaoProdutos.md#separa%C3%A7%C3%A3o-de-produtos) <br>
+[Próximo](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/sobre.md#sobre)

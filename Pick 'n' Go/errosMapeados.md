@@ -1,22 +1,22 @@
 # Erros Mapeados
 
-[Inicio](https://github.com/devhunes/pickngo/blob/master/docs/home.md#pick-n-go)
+[Inicio](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/home.md#pick-n-go)
 
 ## Sumário
 
 1. [Definição](https://github.com/peedroca/documentations/new/master/Pick%20'n'%20Go#defini%C3%A7%C3%A3o)
-2. [Necessário estar logado para separar pedidos!](https://github.com/devhunes/pickngo/blob/master/docs/errosMapeados.md#necess%C3%A1rio-estar-logado-para-separar-pedidos)
-3. [O código XXXXXXXX não consta para separação!!](https://github.com/devhunes/pickngo/blob/master/docs/errosMapeados.md#o-c%C3%B3digo-xxxxxxxx-n%C3%A3o-consta-para-separa%C3%A7%C3%A3o)
-4. [Erros na leitura de Código Único](https://github.com/devhunes/pickngo/blob/master/docs/errosMapeados.md#erros-na-leitura-de-c%C3%B3digo-%C3%BAnico) <br>
-4.1 [Formato de Código único correto.](https://github.com/devhunes/pickngo/blob/master/docs/errosMapeados.md#formato-de-c%C3%B3digo-%C3%BAnico-correto) <br>
-4.2 [Identificador da identificação única não encontrado.](https://github.com/devhunes/pickngo/blob/master/docs/errosMapeados.md#identificador-da-identifica%C3%A7%C3%A3o-%C3%BAnica-n%C3%A3o-encontrado) <br>
-4.3 [Identificador da identificação única está ausente ou inválido.](https://github.com/devhunes/pickngo/blob/master/docs/errosMapeados.md#identificador-da-identifica%C3%A7%C3%A3o-%C3%BAnica-est%C3%A1-ausente-ou-inv%C3%A1lido) <br>
-4.4 [Numeração da identificação única com tamanho inválido.](https://github.com/devhunes/pickngo/blob/master/docs/errosMapeados.md#numera%C3%A7%C3%A3o-da-identifica%C3%A7%C3%A3o-%C3%BAnica-com-tamanho-inv%C3%A1lido) <br>
-4.5 [A identificação única já está sendo utilizada.](https://github.com/devhunes/pickngo/blob/master/docs/errosMapeados.md#a-identifica%C3%A7%C3%A3o-%C3%BAnica-j%C3%A1-est%C3%A1-sendo-utilizada)
+2. [Necessário estar logado para separar pedidos!](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/errosMapeados.md#necess%C3%A1rio-estar-logado-para-separar-pedidos)
+3. [O código XXXXXXXX não consta para separação!!](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/errosMapeados.md#o-c%C3%B3digo-xxxxxxxx-n%C3%A3o-consta-para-separa%C3%A7%C3%A3o)
+4. [Erros na leitura de Código Único](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/errosMapeados.md#erros-na-leitura-de-c%C3%B3digo-%C3%BAnico) <br>
+4.1 [Formato de Código único correto.](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/errosMapeados.md#formato-de-c%C3%B3digo-%C3%BAnico-correto) <br>
+4.2 [Identificador da identificação única não encontrado.](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/errosMapeados.md#identificador-da-identifica%C3%A7%C3%A3o-%C3%BAnica-n%C3%A3o-encontrado) <br>
+4.3 [Identificador da identificação única está ausente ou inválido.](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/errosMapeados.md#identificador-da-identifica%C3%A7%C3%A3o-%C3%BAnica-est%C3%A1-ausente-ou-inv%C3%A1lido) <br>
+4.4 [Numeração da identificação única com tamanho inválido.](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/errosMapeados.md#numera%C3%A7%C3%A3o-da-identifica%C3%A7%C3%A3o-%C3%BAnica-com-tamanho-inv%C3%A1lido) <br>
+4.5 [A identificação única já está sendo utilizada.](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/errosMapeados.md#a-identifica%C3%A7%C3%A3o-%C3%BAnica-j%C3%A1-est%C3%A1-sendo-utilizada)
 
 #### Definição
 
-Aqui serão exibidos todos os erros mapeados/tratados no aplicativo. Os erros que não forem exemplificados e/ou explicados aqui deverão ser informados pelas formas de contato no [item anterior](https://github.com/devhunes/pickngo/blob/master/docs/sobre.md#sobre).
+Aqui serão exibidos todos os erros mapeados/tratados no aplicativo. Os erros que não forem exemplificados e/ou explicados aqui deverão ser informados pelas formas de contato no [item anterior](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/sobre.md#sobre).
 
 #### Necessário estar logado para separar pedidos!
 
@@ -89,4 +89,4 @@ Ocorre quando a primeira parte do código tem a quantidade de caracteres diferen
 
 Ocorre quando é lido o código de um produto que já está separado.
 
-[Topo](https://github.com/devhunes/pickngo/blob/master/docs/errosMapeados.md#erros-mapeados)
+[Topo](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/errosMapeados.md#erros-mapeados)

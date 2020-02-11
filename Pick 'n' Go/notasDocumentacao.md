@@ -1,6 +1,6 @@
 # Notas da Documentação
 
-[Voltar](https://github.com/devhunes/pickngo/blob/master/docs/home.md#pick-n-go)
+[Voltar](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/home.md#pick-n-go)
 
 ![image](https://img.shields.io/badge/version@date-v1.2%20(23/08/2019)-success)
 ![image](https://img.shields.io/badge/version@date-v1.1%20(23/08/2019)-important)

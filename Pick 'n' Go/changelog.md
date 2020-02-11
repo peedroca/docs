@@ -1,7 +1,7 @@
 # Changelog
 
-[Inicio](https://github.com/devhunes/pickngo/blob/master/docs/home.md#pick-n-go) </br>
-[Voltar](https://github.com/devhunes/pickngo/blob/master/docs/requisitos.md#requisitos-de-sistema)
+[Inicio](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/home.md#pick-n-go) </br>
+[Voltar](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/requisitos.md#requisitos-de-sistema)
 
 
 #### Definição
@@ -19,4 +19,4 @@ Para acessar você precisará estar logado. Vá então ao menu principal onde en
 
 A criação da changelog é feita com base no projeto OpenSource de [Olivier Lacan](https://keepachangelog.com/pt-BR/0.3.0/).
 
-[Próximo](https://github.com/devhunes/pickngo/blob/master/docs/configuracoes.md#configura%C3%A7%C3%B5es)
+[Próximo](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/configuracoes.md#configura%C3%A7%C3%B5es)

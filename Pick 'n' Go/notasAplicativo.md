@@ -1,6 +1,6 @@
 # Notas de Atualização
 
-[Voltar](https://github.com/devhunes/pickngo/blob/master/docs/home.md#pick-n-go)
+[Voltar](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/home.md#pick-n-go)
 
 <p align="center">
   <img src="http://hunes.com.br/imagens/mobile/pickngo/015(2).png">
