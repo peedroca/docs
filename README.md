@@ -5,5 +5,4 @@
 
 ---
 
-- [Pick 'n' Go](https://github.com/peedroca/documentations/blob/master/Pick%20'n'%20Go/home.md#pick-n-go)
-- [Vendeu!](https://github.com/peedroca/documentations/blob/master/Vendeu!/home.md#vendeu)
+- [Pick 'n' Go](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/home.md)
