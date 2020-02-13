@@ -11,7 +11,7 @@ A aplicação mobile de separação da Hunes.
 ![image](https://img.shields.io/badge/.Net_Standart-v2.0-blue)
 ![image](https://img.shields.io/badge/Pacote-br.com.Hunes.PickNGo-blueviolet)
 
-[Ver documentação](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/home.md)
+[Ver documentação](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/home.md#pick-n-go)
 
 ---
 
