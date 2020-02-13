@@ -7,7 +7,7 @@
 ![image](https://img.shields.io/badge/.Net_Standart-v2.0-blue)
 ![image](https://img.shields.io/badge/Pacote-br.com.Hunes.PickNGo-blueviolet)
 
-[Inicio](https://github.com/devhunes/docs/blob/master/README.md#documentations)
+[Inicio](https://github.com/devhunes/docs/blob/master/README.md#documenta%C3%A7%C3%B5es)
 
 - [Notas de atualizações na documentação](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/notasDocumentacao.md#notas-da-documenta%C3%A7%C3%A3o)
 - [Notas de atualizações no aplicativo](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/notasAplicativo.md#notas-de-atualiza%C3%A7%C3%A3o)
