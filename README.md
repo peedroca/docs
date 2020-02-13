@@ -18,8 +18,8 @@ A aplicação mobile de separação da Hunes.
 ### Vendeu!
 Descomplique sua venda.
 
-![image](https://img.shields.io/badge/Vendeu!@Latest-v1.4.3-success)
-![image](https://img.shields.io/badge/Vendeu!@Unrelease-v1.4.4-important) </br>
+![image](https://img.shields.io/badge/Vendeu!@Latest-v1.4.5-success)
+![image](https://img.shields.io/badge/Vendeu!@Unrelease-v1.4.5-important) </br>
 ![image](https://img.shields.io/badge/android->=5.0%20(Lollipop)-blue)
 ![image](https://img.shields.io/badge/.Net_Standart-v2.0-blue)
 ![image](https://img.shields.io/badge/Pacote-br.com.Hunes.Vendeu-blueviolet)
