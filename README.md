@@ -1,5 +1,7 @@
 # Documentações
 
+![image](http://hunes.com.br/imagens/mobile/pickngo/034.jpg)
+
 ### Pick 'N' Go
 A aplicação mobile de separação da Hunes.
 
