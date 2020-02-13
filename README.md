@@ -10,6 +10,16 @@ A aplicação mobile de separação da Hunes.
 
 [Ver documentação](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/home.md)
 
+### Vendeu!
+Descomplique sua venda.
+
+![image](https://img.shields.io/badge/Vendeu!-v1.4.4-success)
+![image](https://img.shields.io/badge/android->=5.0%20(Lollipop)-blue)
+![image](https://img.shields.io/badge/.Net_Standart-v2.0-blue)
+![image](https://img.shields.io/badge/Pacote-br.com.Hunes.Vendeu-blueviolet)
+
+[Ver documentação](https://github.com/devhunes/docs/blob/master/Vendeu/home.md)
+
 ### Contributors
 
 <table>
