@@ -12,8 +12,6 @@
 
 - Treine o habito de criar _commits_ regulares para evitar conflitos monstruosos no git
 
-Mais detalhes de boas práticas no git, siga  as instuções do [Git Guide Style](https://github.com/Hunes Tecnologia LTDA/Hunes Tecnologia LTDA-best-practices/tree/master/gitStyleGuide)  da Stone
-
 
 [Home](https://github.com/devhunes/docs)
 
