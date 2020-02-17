@@ -9,6 +9,8 @@ Esse guia tem por objetivo homogenizar os códigos desenvolvidos facilitando o e
 
 [Ver documentação](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/home.md#pick-n-go)
 
+---
+
 ### Pick 'N' Go
 A aplicação mobile de separação da Hunes.
 
