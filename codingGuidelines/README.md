@@ -12,4 +12,4 @@
 - [Exceptions](https://github.com/devhunes/docs/blob/master/codingGuidelines/Exceptions.md)
 
 
-[Home](https://github.com/devhunes/docs)
+[Home](https://github.com/devhunes/docs/blob/master/README.md#documenta%C3%A7%C3%B5es)
