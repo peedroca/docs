@@ -2,6 +2,13 @@
 
 ![image](http://hunes.com.br/imagens/mobile/pickngo/034(2).jpg)
 
+---
+
+### Boas práticas de desenvolvimento
+Esse guia tem por objetivo homogenizar os códigos desenvolvidos facilitando o entendimento dos projetos e colaboração. Abaixo seguem as instuções a serem seguidas ao desenvolver um projeto na Hunes Tecnologia.
+
+[Ver documentação](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/home.md#pick-n-go)
+
 ### Pick 'N' Go
 A aplicação mobile de separação da Hunes.
 
