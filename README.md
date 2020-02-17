@@ -7,7 +7,7 @@
 ### Boas práticas de desenvolvimento
 Esse guia tem por objetivo homogenizar os códigos desenvolvidos facilitando o entendimento dos projetos e colaboração. Abaixo seguem as instuções a serem seguidas ao desenvolver um projeto na Hunes Tecnologia.
 
-[Ver documentação](https://github.com/devhunes/docs/blob/master/Pick%20'n'%20Go/home.md#pick-n-go)
+[Ver documentação](https://github.com/devhunes/docs/tree/master/codingGuidelines#conve%C3%A7%C3%A3o-de-c%C3%B3digo-hunes-tecnologia-ltda)
 
 ---
 
