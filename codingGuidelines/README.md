@@ -1,4 +1,4 @@
-# Conveção de código Cappta
+# Conveção de código Hunes Tecnologia LTDA
 
 - [Formatação](https://github.com/devhunes/docs/blob/master/codingGuidelines/Formatting.md)
 - [Solution](https://github.com/devhunes/docs/blob/master/codingGuidelines/Solution.md)

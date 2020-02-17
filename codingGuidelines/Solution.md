@@ -3,9 +3,9 @@
 **Definição de nomes de projetos:**
 > Nome da empresa, nome do produto e por último o nome do módulo
 
-- Para _solution_ `<Empresa>.<Produto>` - Exemplo Cappta.Gp
+- Para _solution_ `<Empresa>.<Produto>` - Exemplo Hunes Tecnologia LTDA.Gp
 
-- Para projetos `<Empresa>.<Produto>.<Módulo>` - Exemplo Cappta.Gp.TefEngine
+- Para projetos `<Empresa>.<Produto>.<Módulo>` - Exemplo Hunes Tecnologia LTDA.Gp.TefEngine
 
 - Para produtos _whitelabel_ o nome da empresa deve ser ocultado - `<Produto>.<Módulo>` - Exemplo: Scrooge | Scrooge.Core
 
